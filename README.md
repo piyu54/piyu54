@@ -157,9 +157,9 @@ Full Stack Application Development
 
 ## 📊 GitHub Activity
 
+
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=piyu54&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" />
 
 <br>
 
