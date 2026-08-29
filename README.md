@@ -1,102 +1,198 @@
-# Hi 👋, I'm Priya Kushwaha
+<div align="center">
+
+# 👋 Hi, I'm Priya Kushwaha
 
 ### 💻 Java Full Stack Developer | MCA Graduate
 
-I'm an MCA graduate passionate about **Java Full Stack Development** and building practical, real-world applications.
+**Building practical applications with Java, Spring Boot & modern web technologies**
 
-* 🎓 MCA Graduate with **8.99 GPA**
-* 💻 Interested in **Java, Spring Boot & Full Stack Development**
-* 🌱 Currently improving my skills in **Spring Boot, React.js, REST APIs & MySQL**
-* 🚀 Building real-world projects to strengthen my development skills
-* 💼 Open to **Java Developer / Full Stack Developer opportunities**
+<br>
+
+<a href="https://github.com/piyu54">
+<img src="https://img.shields.io/badge/GitHub-piyu54-181717?style=for-the-badge&logo=github" />
+</a>
+<a href="https://www.linkedin.com/in/priya-kushwaha-/">
+<img src="https://img.shields.io/badge/LinkedIn-Priya%20Kushwaha-0A66C2?style=for-the-badge&logo=linkedin" />
+</a>
+<a href="mailto:priyakushwaha1407@gmail.com">
+<img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail" />
+</a>
+
+</div>
 
 ---
 
-## 🛠️ Technical Skills
+## 👩‍💻 About Me
 
-**Languages**
+🎓 MCA Graduate with **8.96 GPA**
 
-Java • JavaScript • SQL • C
+💻 Passionate about **Java Full Stack Development**
 
-**Backend**
+🚀 Building practical and real-world applications
 
-Spring Boot • Spring MVC • Spring Security • REST APIs • Hibernate / JPA
+🌱 Currently improving my skills in **Spring Boot, Spring Security, React.js & REST APIs**
 
-**Frontend**
+🔐 Interested in developing secure and scalable backend applications
 
-HTML • CSS • JavaScript • React.js
+💼 **Open to Java Developer & Full Stack Developer opportunities**
 
-**Database**
+---
 
-MySQL
+## 🛠️ Tech Stack
 
-**Tools**
+### 💻 Languages
 
-Git • GitHub • Postman • VS Code • IntelliJ IDEA • Eclipse
+<p>
+<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+<img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+<img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black"/>
+</p>
+
+### ⚙️ Backend
+
+<p>
+<img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"/>
+<img src="https://img.shields.io/badge/Spring%20Security-6DB33F?style=for-the-badge&logo=springsecurity&logoColor=white"/>
+<img src="https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white"/>
+<img src="https://img.shields.io/badge/REST%20API-02569B?style=for-the-badge"/>
+</p>
+
+### 🎨 Frontend
+
+<p>
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+</p>
+
+### 🗄️ Database & Tools
+
+<p>
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
+</p>
 
 ---
 
 ## 🚀 Featured Projects
 
+<table>
+<tr>
+<td width="50%">
+
 ### 🔹 ResolveX
 
-**Enterprise Complaint Management System**
+**Complaint Management System**
 
-A complaint management application designed to help users raise, manage and track complaints efficiently.
+A web application designed to help users raise, manage and track complaints efficiently.
 
-**Tech Stack:** Java • Spring Boot • REST APIs • MySQL
+**Tech:**
+Java • Spring Boot • REST APIs • MySQL
 
----
+</td>
+
+<td width="50%">
 
 ### 🔹 DevConnect
 
-A full-stack application focused on connecting developers and providing a platform for developer-related interactions.
+**Developer Platform**
 
-**Tech Stack:** Java • Spring Boot • React.js • MySQL
+A full-stack application focused on connecting developers and providing useful developer-related interactions.
 
----
+**Tech:**
+Java • Spring Boot • React.js • MySQL
+
+</td>
+</tr>
+
+<tr>
+<td width="50%">
 
 ### 🔹 BeautyBoutique
 
-A Java-based e-commerce application with product management, cart functionality and billing features.
+**E-Commerce Application**
 
-**Tech Stack:** Java • JDBC • MySQL
+A Java-based application featuring product management, cart functionality and billing.
 
----
+**Tech:**
+Java • JDBC • MySQL
 
-### 🔹 Fitness & Wellness Website
+</td>
 
-A responsive fitness and wellness website developed using HTML, CSS and JavaScript.
+<td width="50%">
+
+### 🔹 Fitness & Wellness
+
+**Responsive Website**
+
+A responsive fitness and wellness website developed using modern frontend technologies.
+
+**Tech:**
+HTML • CSS • JavaScript
+
+</td>
+</tr>
+</table>
 
 ---
 
 ## 📚 Currently Learning
 
-* Advanced Spring Boot
-* Spring Security & JWT
-* React.js
-* REST API Development
-* Full Stack Application Development
-* Git & GitHub
+```text
+Spring Boot
+     ↓
+Spring Security & JWT
+     ↓
+REST API Development
+     ↓
+React.js
+     ↓
+Full Stack Application Development
+```
 
 ---
 
-## 🎯 Career Goal
+## 📊 GitHub Activity
 
-To work as a **Java Full Stack Developer** where I can apply my technical skills, learn from experienced developers, and contribute to building scalable and reliable applications.
+<div align="center">
 
----
+<img src="https://github-readme-stats.vercel.app/api?username=piyu54&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" />
 
-## 📫 Connect With Me
+<br>
 
-📧 **Email:** [priyakushwaha1407@gmail.com](mailto:priyakushwaha1407@gmail.com)
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=piyu54&theme=tokyonight&hide_border=true" />
 
-💼 **LinkedIn:** [Priya Kushwaha](https://www.linkedin.com/in/priya-kushwa-aha-/)
-
-💻 **GitHub:** [piyu54](https://github.com/piyu54)
+</div>
 
 ---
 
-### ⭐ Thanks for visiting my profile!
+## 🎯 My Goal
 
-I'm always learning, building, and exploring new technologies.
+> **To become a skilled Java Full Stack Developer and contribute to building reliable, scalable and user-friendly applications.**
+
+I believe in continuous learning, writing clean code and improving through real-world projects.
+
+---
+
+## 🤝 Let's Connect
+
+<div align="center">
+
+<a href="https://www.linkedin.com/in/priya-kushwa-aha-/">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin" />
+</a>
+
+<a href="mailto:priyakushwaaha1407@gmail.com">
+<img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail" />
+</a>
+
+<br><br>
+
+⭐ **Thanks for visiting my profile!**
+
+### *Keep Learning • Keep Building • Keep Growing 🚀*
+
+</div>
