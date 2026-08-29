@@ -24,7 +24,7 @@
 
 ## 👩‍💻 About Me
 
-🎓 MCA Graduate with **8.96 GPA**
+🎓 MCA Graduate with **8.99 GPA**
 
 💻 Passionate about **Java Full Stack Development**
 
