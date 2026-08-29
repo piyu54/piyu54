@@ -4,53 +4,35 @@
 
 I'm an MCA graduate passionate about **Java Full Stack Development** and building practical, real-world applications.
 
-🎓 **MCA Graduate — 8.96 GPA**
-
-💻 **Java | Spring Boot | React.js | MySQL | REST APIs**
-
-🚀 I enjoy developing applications, solving problems, and continuously improving my development skills.
-
-🌱 Currently strengthening my skills in **Spring Boot, Spring Security, React.js, REST APIs and Full Stack Development.**
-
-💼 **Open to Java Developer / Full Stack Developer opportunities**
+* 🎓 MCA Graduate with **8.99 GPA**
+* 💻 Interested in **Java, Spring Boot & Full Stack Development**
+* 🌱 Currently improving my skills in **Spring Boot, React.js, REST APIs & MySQL**
+* 🚀 Building real-world projects to strengthen my development skills
+* 💼 Open to **Java Developer / Full Stack Developer opportunities**
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠️ Technical Skills
 
-### Languages
+**Languages**
 
-* Java
-* JavaScript
-* SQL
-* C
+Java • JavaScript • SQL • C
 
-### Backend
+**Backend**
 
-* Spring Boot
-* Spring MVC
-* Spring Security
-* REST APIs
-* Hibernate / JPA
+Spring Boot • Spring MVC • Spring Security • REST APIs • Hibernate / JPA
 
-### Frontend
+**Frontend**
 
-* HTML
-* CSS
-* JavaScript
-* React.js
+HTML • CSS • JavaScript • React.js
 
-### Database
+**Database**
 
-* MySQL
+MySQL
 
-### Tools
+**Tools**
 
-* Git
-* GitHub
-* Postman
-* VS Code
-* IntelliJ IDEA
+Git • GitHub • Postman • VS Code • IntelliJ IDEA • Eclipse
 
 ---
 
@@ -60,33 +42,31 @@ I'm an MCA graduate passionate about **Java Full Stack Development** and buildin
 
 **Enterprise Complaint Management System**
 
-A complaint management application designed to simplify complaint handling and help users raise and manage complaints efficiently.
+A complaint management application designed to help users raise, manage and track complaints efficiently.
 
-**Tech:** Java, Spring Boot, Hibernate/JPA, REST APIs, MySQL
+**Tech Stack:** Java • Spring Boot • REST APIs • MySQL
 
 ---
 
 ### 🔹 DevConnect
 
-A full-stack web application designed to help developers learn programming, track progress, and manage their learning journey.
+A full-stack application focused on connecting developers and providing a platform for developer-related interactions.
 
-**Tech:** Java, Spring Boot, React.js, MySQL
+**Tech Stack:** Java • Spring Boot • React.js • MySQL
 
 ---
 
 ### 🔹 BeautyBoutique
 
-A Java-based e-commerce console application with product management, cart functionality, billing and role-based access.
+A Java-based e-commerce application with product management, cart functionality and billing features.
 
-**Tech:** Java, JDBC, MySQL
+**Tech Stack:** Java • JDBC • MySQL
 
 ---
 
 ### 🔹 Fitness & Wellness Website
 
 A responsive fitness and wellness website developed using HTML, CSS and JavaScript.
-
-🏆 Academic team project — **2nd Rank**
 
 ---
 
@@ -111,12 +91,12 @@ To work as a **Java Full Stack Developer** where I can apply my technical skills
 
 📧 **Email:** [priyakushwaha1407@gmail.com](mailto:priyakushwaha1407@gmail.com)
 
-💼 **LinkedIn:** [Priya Kushwaha](https://www.linkedin.com/in/priya-kushwaha-/)
+💼 **LinkedIn:** [Priya Kushwaha](https://www.linkedin.com/in/priya-kushwa-aha-/)
 
 💻 **GitHub:** [piyu54](https://github.com/piyu54)
 
 ---
 
-⭐ **Thanks for visiting my profile!**
+### ⭐ Thanks for visiting my profile!
 
-I'm always learning, building and exploring new technologies.
+I'm always learning, building, and exploring new technologies.
